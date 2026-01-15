@@ -60,7 +60,7 @@ supernova-expansion-simulation/
 ├── Euler2D.f95            # Código principal del solver hidrodinámico 2D
 ├── Supernova.f95          # Definición del problema físico específico
 ├── parameters.mod         # Parámetros físicos y numéricos globales
-├── constants.mod          # Constantes físicas (GAM, AMU, KB, etc.)
+├── constants.mod          # Constantes físicas
 ├── globals.mod            # Variables globales compartidas
 │
 ├── Euler                  # Ejecutable generado tras la compilación
