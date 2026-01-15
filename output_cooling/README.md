@@ -1,1 +1,3 @@
-Esta carpeta contiene las **salidas numéricas de la simulación hidrodinámica sin enfriamiento radiativo**. Incluye archivos generados en distintos tiempos de integración, utilizados para analizar la evolución del remanente bajo un modelo adiabático y para producir visualizaciones comparativas.
+##output_cooling
+
+En esta carpeta se almacenan las **salidas de la simulación con enfriamiento radiativo activado**. Los datos permiten estudiar el impacto de las pérdidas de energía en la dinámica del remanente de supernova y comparar directamente con el caso sin enfriamiento.
