@@ -65,7 +65,7 @@ supernova-expansion-simulation/
 │
 ├── Euler                  # Ejecutable generado tras la compilación
 └── Euler2D.f95.o          # Archivo objeto generado por el compilador
-
+```
 
 ## `Euler2D.f95` — Secuencia de la simulación
 
